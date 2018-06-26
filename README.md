@@ -1,2 +1,2 @@
 # Resersi-hs
-WIP:Haskell implementation IGO.
+Reversi implemented by Haskell
